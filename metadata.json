@@ -1,0 +1,8 @@
+{
+  "name": "Augmented Campus",
+  "description": "A gamified, location-based augmented reality platform for university campuses to enhance student engagement and social connection.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
